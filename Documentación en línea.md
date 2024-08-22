@@ -42,4 +42,7 @@ https://ecologyandsociety.org/
 *La protección de la Madre Tierra a debate en la ONU - Desarrollo Sostenible* 
 https://www.un.org/sustainabledevelopment/es/2017/04/la-proteccion-de-la-madre-tierra-a-debate-en-la-onu/#:~:text=En%20v%C3%ADsperas%20del%20D%C3%ADa%20Internacional%20de%20la%20Madre,naturales%20y%20asegurar%20el%20bienestar%20de%20la%20humanidad.
 
+*How Close Are the Planet’s Climate Tipping Points?*
+https://www.nytimes.com/interactive/2024/08/11/climate/earth-warming-climate-tipping-points.html?campaign_id=2&emc=edit_th_20240812&instance_id=131478&nl=today%27s-headlines&regi_id=12536236&segment_id=174911&te=1&user_id=e44b8fa5c26bc7b0ada6fb2b265f2f97
+
 
