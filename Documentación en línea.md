@@ -45,4 +45,7 @@ https://www.un.org/sustainabledevelopment/es/2017/04/la-proteccion-de-la-madre-t
 *How Close Are the Planet’s Climate Tipping Points?*
 https://www.nytimes.com/interactive/2024/08/11/climate/earth-warming-climate-tipping-points.html?campaign_id=2&emc=edit_th_20240812&instance_id=131478&nl=today%27s-headlines&regi_id=12536236&segment_id=174911&te=1&user_id=e44b8fa5c26bc7b0ada6fb2b265f2f97
 
+*The Tipping Points of Climate Change — and Where We Stand | Johan Rockström | TED*
+https://youtu.be/Vl6VhCAeEfQ?si=Hlu1bHFCD1SrJseG
+
 
