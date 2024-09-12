@@ -4,6 +4,9 @@
 *Green House Think Tank*
 https://www.greenhousethinktank.org/
 
+*Earth Observatory NASA*
+https://earthobservatory.nasa.gov/
+
 *Imperatives for reducing methane emissions*
 https://www.frontiersin.org/journals/science/article-hubs/imperatives-for-reducing-methane-emissions?j=2412856&sfmc_sub=338351128&l=94_HTML&u=89949291&mid=7236711&jb=354&id_mc=338351128&utm_source=sfmc&utm_medium=email&utm_campaign=NL%2008%202024&utm_id=2412856&Business_Goal=MARCOM&Audience=Subscribers&Email_Category=CorporateNewsletter_A&Channel=Email&BusinessGoal_Audience_EmailCategory_Channel=MARCOM_Subscribers_CorporateNewsletter_Email
 
