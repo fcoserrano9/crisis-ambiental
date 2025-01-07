@@ -54,4 +54,5 @@ https://www.nytimes.com/interactive/2024/08/11/climate/earth-warming-climate-tip
 *The Tipping Points of Climate Change — and Where We Stand | Johan Rockström | TED*
 https://youtu.be/Vl6VhCAeEfQ?si=Hlu1bHFCD1SrJseG
 
-
+*Aida*
+https://aida-americas.org/es/acerca-de-aida
