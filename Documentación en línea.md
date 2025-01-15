@@ -56,3 +56,6 @@ https://youtu.be/Vl6VhCAeEfQ?si=Hlu1bHFCD1SrJseG
 
 *Aida*
 https://aida-americas.org/es/acerca-de-aida
+
+*Net-Zero Banking Alliance*
+https://www.unepfi.org/net-zero-banking/
