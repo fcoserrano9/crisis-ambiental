@@ -68,3 +68,6 @@ https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-
 
 *Observatorio jurídico de los derechos de la naturaleza*
 https://www.derechosdelanaturaleza.org.ec/
+
+*David Suziki Foundation One Nature*
+https://davidsuzuki.org/what-you-can-do/what-is-climate-change/
