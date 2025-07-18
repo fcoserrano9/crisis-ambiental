@@ -74,3 +74,6 @@ https://davidsuzuki.org/what-you-can-do/what-is-climate-change/
 
 *Grantham Institute - Climate Change and the Environment*
 https://www.imperial.ac.uk/grantham/
+
+*Climate and Community Institute*
+https://climatecommunityinstitute.substack.com/
