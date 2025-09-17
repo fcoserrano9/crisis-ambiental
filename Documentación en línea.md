@@ -87,5 +87,5 @@ https://www.ametsoc.org/ams/
 *Yale Climate Collections*
 https://yaleclimateconnections.org/
 
-*Climate.us* Independent, nonprofit, and immune to politics
+*Climate.us* -Independent, nonprofit, and immune to politics-
 https://www.climate.us/
