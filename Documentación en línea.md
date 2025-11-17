@@ -91,3 +91,6 @@ https://yaleclimateconnections.org/
 
 *Climate.us* -Independent, nonprofit, and immune to politics-
 https://www.climate.us/
+
+*Climate Biethics Program. The Hasting Center for Bioethics*
+https://www.thehastingscenter.org/who-we-are/our-research/current-projects/climate-bioethics-program/
