@@ -100,3 +100,9 @@ https://juststopoil.org/
 
 *Ecoticias.com El periódico verde*
 https://www.ecoticias.com/
+
+*Real Zero*
+https://www.realzero.earth/
+
+*Living Imaginaries. Reimagining how we govern, relate, and live in a more-than-human world.*
+https://www.livingimaginaries.com/
