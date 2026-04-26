@@ -106,3 +106,9 @@ https://www.realzero.earth/
 
 *Living Imaginaries. Reimagining how we govern, relate, and live in a more-than-human world.*
 https://www.livingimaginaries.com/
+
+*Meteo France*
+http://archivesduclimat.meteofrance.fr/
+
+*Data Rescue Projects*
+https://datarescue.climate.copernicus.eu/
