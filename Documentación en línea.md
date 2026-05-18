@@ -4,6 +4,9 @@
 *Cambio climático y salud en México (CENTRUS)*
 https://centrus.ibero.mx/cambio-climatico-y-salud-en-mexico/
 
+*WHO Foundation Climate and Health*
+https://www.who.foundation/climate-and-health
+
 *United Nations Climate Change*
 https://unfccc.int/es
 
