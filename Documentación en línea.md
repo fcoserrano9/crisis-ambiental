@@ -75,6 +75,9 @@ https://www.unepfi.org/net-zero-banking/
 *CarbonBrief Clear on Climate*
 https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/
 
+*Project Cosmos en CarbonBrief*
+https://interactive.carbonbrief.org/cosmos/index.html
+
 *Observatorio jurídico de los derechos de la naturaleza*
 https://www.derechosdelanaturaleza.org.ec/
 
