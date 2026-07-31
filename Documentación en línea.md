@@ -140,3 +140,6 @@ https://climateintegrity.org/
 
 *World Weather Attribution*
 https://www.worldweatherattribution.org/
+
+*The Zetkin Collective*
+https://www.thezetkincollective.org/
