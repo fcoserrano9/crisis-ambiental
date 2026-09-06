@@ -143,3 +143,12 @@ https://www.worldweatherattribution.org/
 
 *The Zetkin Collective*
 https://www.thezetkincollective.org/
+
+*Sunrise movement*
+https://www.sunrisemovement.org/es/
+
+*Climate Defiance*
+https://www.climatedefiance.org/
+
+*Th!ird Act*
+https://thirdact.org/
