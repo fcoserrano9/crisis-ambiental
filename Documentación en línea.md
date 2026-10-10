@@ -152,3 +152,6 @@ https://www.climatedefiance.org/
 
 *Th!ird Act*
 https://thirdact.org/
+
+*Carbon Majors*
+https://carbonmajors.org/Entities
