@@ -155,3 +155,7 @@ https://thirdact.org/
 
 *Carbon Majors*
 https://carbonmajors.org/Entities
+
+*Potsdam Institute for Climate Impact Research (PIK)*
+https://altiorem.org/organisation/potsdam-institute-for-climate-impact-research-pik/
+
