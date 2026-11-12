@@ -161,3 +161,6 @@ https://altiorem.org/organisation/potsdam-institute-for-climate-impact-research-
 
 *Lancet Countdown: Siguiendo el progreso en salud y cambio climático*
 https://lancetcountdown.org/es/
+
+*Climate Action Tracker*
+https://climateactiontracker.org/
